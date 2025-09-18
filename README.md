@@ -8,4 +8,5 @@ Sometimes I do other stuff for fun in C, Dlang and other languages.
 
 
 - 🏳️‍🌈♠ My Pronouns: She/They/He
+- 👩 My other account : https://github.com/Zardoz89
 - 🍑 Hobbies : 🔭 Astronomy, 🤖 sci-fi, 🚂 trains, 💾 retrocomputing, playing 👾 videogames & 🎲 boardgames, 🪄 RPG (D&D mainly)
