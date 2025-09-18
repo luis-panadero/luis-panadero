@@ -1,16 +1,20 @@
-## Hi there 👋
+<h3 align="center">Hey! 👋</h3>
 
-<!--
-**luis-panadero/luis-panadero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+✨ I'm a Full-Stack Developer working in Madrid, Spain. I mainly work with Java for backend, and JavaScript (and HTML&CSS/SCSS) for frontend. 
+Sometimes I do other stuff for fun in C, Dlang and other languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🏳️‍🌈♠ My Pronouns: She/They/He
+- 🍑 Hobbies : 🔭 Astronomy, 🤖 sci-fi, 🚂 trains, 💾 retrocomputing, playing 👾 videogames & 🎲 boardgames, 🪄 RPG (D&D mainly)
+
+
+<details>
+
+<summary>My GitHub Stats</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zardoz89)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
