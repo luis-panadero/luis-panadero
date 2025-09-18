@@ -12,9 +12,3 @@ Sometimes I do other stuff for fun in C, Dlang and other languages.
 
 
 <details>
-
-<summary>My GitHub Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zardoz89)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
